@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Simogamer123ea</h1>
-<h3 align="center">A young (15 years old) cybersecurity specialist (totally not a skiddo) who has experience in computer science, programming languages, technology, and security. My ultimate goal is to become a technological inventor and/or an information security or cybersecurity expert. Cybersecurity is the ideal job for me; I adore it. But who knows, maybe I'll become something even greater than cybersecurity? I'm not sure, but I'm putting in a lot of work to reach that objective, and the only people who motivate me are my parents. Parents are more important than everyone else.</h3>
+<h3 align="center">A young (15 years old) cybersecurity specialist (totally not a skid) who has experience in computer science, programming languages, technology, and security. My ultimate goal is to become a technological inventor and/or an information security or cybersecurity expert. Cybersecurity is the ideal job for me; I adore it. But who knows, maybe I'll become something even greater than cybersecurity? I'm not sure, but I'm putting in a lot of work to reach that objective, and the only people who motivate me are my parents. Parents are more important than everyone else.</h3>
 
 - 🌱 I’m currently learning **Cloud Security and Incident Response.**
 
