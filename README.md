@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Simogamer123ea</h1>
-<h3 align="center">A cybersecurity specialist who has experience in computer science, programming languages, technology, and security. My ultimate goal is to become a technological inventor and/or an information security or cybersecurity expert. Cybersecurity is the ideal job for me; I adore it. But who knows, maybe I'll become something even greater than cybersecurity? I'm not sure, but I'm putting in a lot of work to reach that objective, and the only people who motivate me are my parents. Parents are more important than everyone else.</h3>
+<h3 align="center">A cybersecurity specialist who has experience in computer science, programming languages, technology, and security. My ultimate goal is to become a technological inventor and/or an information security or cybersecurity expert. Cybersecurity is the ideal job for me; I adore it. But who knows, maybe I'll become something even greater than cybersecurity? I'm not sure, but I'm putting in a lot of work to reach that objective.</h3>
 
 - 🌱 I’m currently learning **Cloud Security and Incident Response.**
 
@@ -10,7 +10,7 @@
 - 📄 Know about my experiences: 
 I am experienced in cyber threat intelligence and can perform investigations and analysis to identify cyber attacks and bullies. I have expertise in gathering information using OSINT techniques and social engineering. In programming, I am intermediate in Python, SQL, JavaScript, Lua, and HTML, and I am capable of working with various APIs using these programming languages. Although I have knowledge of SQL injection and cross-site scripting techniques, I always use them ethically and with permission from the creator. I am also professional when using social engineering and can effectively trick malicious users to obtain their identity, which I then use to report them to the authorities or relevant agencies. Additionally, I have experience in encryption and decryption and have even created my own algorithms to help secure my sensitive data. These algorithms are designed in such a way that no one can access, read, or edit the data because no one knows my algorithm method. Even if they knew my algorithm method, they would need a key in order to access the sensitive data, I am really good at that.
 
-- ⚡ Fun fact **My friends believe I'm amusing since I usually smile:]**
+- ⚡ Fun fact **My friends believe I'm amusing since I always smile :]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
